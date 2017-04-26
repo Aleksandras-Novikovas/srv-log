@@ -1,0 +1,23 @@
+{
+    "name": "srv-log",
+    "version": "0.0.1",
+    "description": "Logging functionality for server blueprint",
+    "license": "MIT",
+    "author": {
+        "name": "Aleksandras Novikovas",
+        "email": "Aleksandras.Novikovas@gmail.com"
+    },
+    "contributors": [],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/Aleksandras-Novikovas/srv-log.git"
+    },
+    "dependencies": {
+        "bunyan": "^1.8.5",
+        "bunyan-format": "git://github.com/Aleksandras-Novikovas/bunyan-format.git",
+        "srv-core": "git://github.com/Aleksandras-Novikovas/srv-core.git"
+    },
+    "devDependencies": {
+        "jsdoc": "^3.4.3"
+    }
+}
