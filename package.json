@@ -15,7 +15,7 @@
     "dependencies": {
         "bunyan": "^1.8.5",
         "bunyan-format": "git://github.com/Aleksandras-Novikovas/bunyan-format.git",
-        "srv-core": "git://github.com/Aleksandras-Novikovas/srv-core.git"
+        "srv-core": "^0.0.1"
     },
     "devDependencies": {
         "jsdoc": "^3.4.3"
